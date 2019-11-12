@@ -7,3 +7,5 @@ SimpleAF was originally a project I worked on for a discussion in Programming 1.
 
 Known issues:
 1. When running at a higher tempo and adding more instruments causes a lag.
+
+Video of SimpleAf in action: https://youtu.be/TnK8RO8kxps
